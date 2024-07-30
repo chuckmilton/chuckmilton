@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Hello, my name is Charles and I am a CS student minoring in Applied Math at CSULB! I enjoy diving into a variety of domains within computer science, such as software development, VR/AR, and AI/ML. My goal is to not only work towards being the best at what I do, but to also contribute to building a future where technology serves humanity in innovative and ethical ways, making a positive impact on society's challenges and improving the quality of life for people around the world.</p>
+<p align="left">Hello, my name is Charles and I am a CS student minoring in Statistics at CSULB! I enjoy diving into a variety of domains within computer science, such as software development, VR/AR, and AI/ML. My goal is to not only work towards being the best at what I do, but to also contribute to building a future where technology serves humanity in innovative and ethical ways, making a positive impact on society's challenges and improving the quality of life for people around the world.</p>
 
 ###
 

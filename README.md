@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left"><ul><li>🌎 Long Beach, CA</li><br><li>📚 I'm learning Full-Stack Development, VR/AR Development, and Machine Learning</li><br><li>🖥️ Check out my portfolio at https://chuckmilton.com</li><br><li>✉️ You can contact me at <a href="mailto:chuckmilton123@gmail.com">chuckmilton123@gmail.com</a></li></ul></p>
+<p align="left">🌎 Long Beach, CA<br>📚 I'm learning Full-Stack Development, VR/AR Development, and Machine Learning<br>🖥️ Check out my portfolio at https://chuckmilton.com/<br>✉️ You can contact me at chuckmilton123@gmail.com<br>🎲 Fun fact: I have chronic lower back pain.</p>
 
 ###
 
@@ -50,6 +50,13 @@
   <a href="https://www.linkedin.com/in/charles-milton-0b679427b/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chuckmilton&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chuckmilton&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###

@@ -6,11 +6,11 @@
 
 ###
 
-<p align="left">Hello, my name is Charles and I am a CS student minoring in Statistics at CSULB! I enjoy diving into a variety of domains within computer science, such as software development, VR/AR, and AI/ML. My goal is to not only work towards being the best at what I do, but to also contribute to building a future where technology serves humanity in innovative and ethical ways, making a positive impact on society's challenges and improving the quality of life for people around the world.</p>
+<p align="left">Hello, my name is Charles and I am a CS student at CSULB! I enjoy diving into a variety of domains within computer science, such as software development, VR/AR, and AI/ML. My goal is to not only work towards being the best at what I do, but to also contribute to building a future where technology serves humanity in innovative and ethical ways, making a positive impact on society's challenges and improving the quality of life for people around the world.</p>
 
 ###
 
-<p align="left">🌎 Long Beach, CA<br>📚 I'm learning Full-Stack Development, VR/AR Development, and Machine Learning<br>🖥️ Check out my portfolio at https://chuckmilton.com/ </p>
+<p align="left">🌎 Long Beach, CA<br>📚 I'm learning Full-Stack Development, VR/AR Development, and Machine Learning<br>🖥️ Check out my portfolio at https://chuckmilton.com/<br>✉️ You can contact me at chuckmilton123@gmail.com<br>🎲 Fun fact: I have chronic lower back pain.</p>
 
 ###
 
@@ -46,6 +46,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
 </div>
 
 ###

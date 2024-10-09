@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌎 Long Beach, CA<br>📚 I'm learning Full-Stack Development, Machine Learning/Deep Learning, and VR/AR Development<br>🖥️ Check out my portfolio at https://chuckmilton.com/<br>✉️ You can contact me at chuckmilton123@gmail.com<br>🎲 Fun fact: I have chronic lower back pain.</p>
+<p align="left">🌎 Long Beach, CA<br>📚 I'm learning Full-Stack Development, Machine Learning/Deep Learning, and VR/AR Development<br>🖥️ Check out my portfolio at https://chuckmilton.com/<br>✉️ You can contact me at chuckmilton123@gmail.com
 
 ###
 

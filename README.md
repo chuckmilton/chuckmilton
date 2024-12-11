@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌎 Long Beach, CA<br>📚 I'm learning Full-Stack Development, Machine Learning/Deep Learning, and VR/AR Development<br>🖥️ Check out my portfolio at https://chuckmilton.com/<br>✉️ You can contact me at chuckmilton123@gmail.com
+<p align="left">🌎 Long Beach, CA<br>📚 I'm learning Full-Stack Development and Machine Learning/Deep Learning.<br>🖥️ Check out my portfolio at https://chuckmilton.com/<br>✉️ You can contact me at charlesmiltoncs@gmail.com
 
 ###
 
@@ -68,7 +68,7 @@
   <a href="https://www.linkedin.com/in/charles-milton-0b679427b/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:chuckmilton123@gmail.com" target="_blank">
+  <a href="mailto:charlesmiltoncs@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>

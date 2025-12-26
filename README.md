@@ -16,8 +16,6 @@ class Charles:
 
 Software engineer with experience across the full stack, from building AWS-native backend services to shipping responsive web and mobile applications.
 
-At **Amazon**, I built a Java service on AWS to correct retail inventory misclassification across global fulfillment centers. Currently a **Software Developer at ASI** and **Lead Developer at ACM CSULB**.
-
 **Specialties:** TypeScript, Java, Python, React/Next.js, Node.js, AWS (Lambda, DynamoDB, S3, CloudWatch), Docker, MongoDB
 
 ---
